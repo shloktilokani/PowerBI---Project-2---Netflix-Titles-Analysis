@@ -19,3 +19,5 @@ Data Analysis Project using PowerBI
 - 📦 **Data Files**: All data files used to build the report.
 
 This dashboard is a powerful tool for exploring and understanding Netflix content distribution and specifics! 🎬
+
+![]https://github.com/shloktilokani/PowerBI---Project-2---Netflix-Titles-Analysis/blob/main/Res/Screenshots/Screenshot%20(54).png
