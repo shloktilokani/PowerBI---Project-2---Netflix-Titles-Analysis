@@ -1,6 +1,9 @@
 # PowerBI---Project-2---Netflix-Titles-Analysis
 Data Analysis Project using PowerBI
-📊 Just wrapped up an insightful session diving into Netflix Movies and Series dataset using PowerBI! 💡 Explored location-based visualization techniques and created a dashboard that allows displaying details like genres, cast, directors, release year, rating, description, and countries available in a user-friendly manner.
+
+📊 Just wrapped up an insightful session diving into Netflix Movies and Series dataset using PowerBI! 
+
+💡 Explored location-based visualization techniques and created a dashboard that allows displaying details like genres, cast, directors, release year, rating, description, and countries available in a user-friendly manner.
 
 🔍 Key Takeaways:
 
